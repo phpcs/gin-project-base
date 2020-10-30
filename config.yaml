@@ -1,0 +1,13 @@
+mysql:
+ host: 47.100.19.130
+ port: 3306
+ username: root
+ password: cs3894203
+ dbname: ceshi
+ net: tcp
+ code:
+  selected: [1,2,3, "brcue"]
+  companies: [{id: 1,name: company1,price: 200W},{id: 2,name: company2,price: 500W}]
+switch:
+   - TRUE
+   - FALSE

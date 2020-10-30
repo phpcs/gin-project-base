@@ -1,0 +1,107 @@
+[GIN-debug] GET    /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] HEAD   /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] Loaded HTML Templates (3): 
+	- 
+	- index.html
+	- upload.html
+
+[GIN-debug] POST   /upload                   --> gin-project-base/controller.Upload (3 handlers)
+[GIN-debug] GET    /v1/index                 --> gin-project-base/controller.Index (3 handlers)
+[GIN-debug] POST   /v1/login                 --> gin-project-base/controller.Login (3 handlers)
+[GIN-debug] GET    /v1/user/:id              --> gin-project-base/controller.GetUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] GET    /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] HEAD   /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] Loaded HTML Templates (3): 
+	- 
+	- index.html
+	- upload.html
+
+[GIN-debug] POST   /upload                   --> gin-project-base/controller.Upload (3 handlers)
+[GIN-debug] GET    /v1/index                 --> gin-project-base/controller.Index (3 handlers)
+[GIN-debug] POST   /v1/login                 --> gin-project-base/controller.Login (3 handlers)
+[GIN-debug] GET    /v1/user/:id              --> gin-project-base/controller.GetUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] GET    /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] HEAD   /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] Loaded HTML Templates (3): 
+	- index.html
+	- upload.html
+	- 
+
+[GIN-debug] POST   /upload                   --> gin-project-base/controller.Upload (3 handlers)
+[GIN-debug] GET    /v1/index                 --> gin-project-base/controller.Index (3 handlers)
+[GIN-debug] POST   /v1/login                 --> gin-project-base/controller.Login (3 handlers)
+[GIN-debug] GET    /v1/user/:id              --> gin-project-base/controller.GetUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] GET    /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] HEAD   /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] Loaded HTML Templates (3): 
+	- 
+	- index.html
+	- upload.html
+
+[GIN-debug] POST   /upload                   --> gin-project-base/controller.Upload (3 handlers)
+[GIN-debug] GET    /v1/index                 --> gin-project-base/controller.Index (3 handlers)
+[GIN-debug] POST   /v1/login                 --> gin-project-base/controller.Login (3 handlers)
+[GIN-debug] GET    /v1/user/:id              --> gin-project-base/controller.GetUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] GET    /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] HEAD   /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] Loaded HTML Templates (3): 
+	- 
+	- index.html
+	- upload.html
+
+[GIN-debug] POST   /upload                   --> gin-project-base/controller.Upload (3 handlers)
+[GIN-debug] GET    /v1/index                 --> gin-project-base/controller.Index (3 handlers)
+[GIN-debug] POST   /v1/login                 --> gin-project-base/controller.Login (3 handlers)
+[GIN-debug] GET    /v1/user/:id              --> gin-project-base/controller.GetUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] GET    /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] HEAD   /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] Loaded HTML Templates (3): 
+	- 
+	- index.html
+	- upload.html
+
+[GIN-debug] POST   /upload                   --> gin-project-base/controller.Upload (3 handlers)
+[GIN-debug] GET    /v1/index                 --> gin-project-base/controller.Index (3 handlers)
+[GIN-debug] POST   /v1/login                 --> gin-project-base/controller.Login (3 handlers)
+[GIN-debug] GET    /v1/user/:id              --> gin-project-base/controller.GetUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Fri, 30 Oct 2020 11:19:19 CST] "GET /v1/user/1 HTTP/1.1 200 62.906947ms "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+[GIN-debug] GET    /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] HEAD   /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] Loaded HTML Templates (3): 
+	- 
+	- index.html
+	- upload.html
+
+[GIN-debug] POST   /upload                   --> gin-project-base/controller.Upload (3 handlers)
+[GIN-debug] GET    /v1/index                 --> gin-project-base/controller.Index (3 handlers)
+[GIN-debug] POST   /v1/login                 --> gin-project-base/controller.Login (3 handlers)
+[GIN-debug] GET    /v1/user/:id              --> gin-project-base/controller.GetUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Fri, 30 Oct 2020 11:21:38 CST] "GET /v1/user/1 HTTP/1.1 200 59.053434ms "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+127.0.0.1 - [Fri, 30 Oct 2020 11:21:39 CST] "GET /v1/user/1 HTTP/1.1 200 54.474206ms "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+[GIN-debug] GET    /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] HEAD   /image/*filepath          --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[GIN-debug] Loaded HTML Templates (3): 
+	- 
+	- index.html
+	- upload.html
+
+[GIN-debug] POST   /upload                   --> gin-project-base/controller.Upload (3 handlers)
+[GIN-debug] GET    /v1/index                 --> gin-project-base/controller.Index (3 handlers)
+[GIN-debug] POST   /v1/login                 --> gin-project-base/controller.Login (3 handlers)
+[GIN-debug] GET    /v1/user/:id              --> gin-project-base/controller.GetUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+127.0.0.1 - [Fri, 30 Oct 2020 11:22:56 CST] "GET /v1/user/1 HTTP/1.1 200 169.621649ms "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+127.0.0.1 - [Fri, 30 Oct 2020 11:22:57 CST] "GET /v1/user/1 HTTP/1.1 200 469.027702ms "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+127.0.0.1 - [Fri, 30 Oct 2020 11:22:57 CST] "GET /v1/user/1 HTTP/1.1 200 680.866508ms "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+127.0.0.1 - [Fri, 30 Oct 2020 11:22:57 CST] "GET /v1/user/1 HTTP/1.1 200 805.57904ms "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+127.0.0.1 - [Fri, 30 Oct 2020 11:23:04 CST] "GET /v1/login HTTP/1.1 404 299ns "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+127.0.0.1 - [Fri, 30 Oct 2020 11:23:26 CST] "GET /v1/index HTTP/1.1 200 577.754µs "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+::1 - [Fri, 30 Oct 2020 11:23:30 CST] "POST /v1/login HTTP/1.1 200 1.372786ms "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
+::1 - [Fri, 30 Oct 2020 11:23:30 CST] "GET /favicon.ico HTTP/1.1 404 161ns "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" "
